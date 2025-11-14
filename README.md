@@ -68,7 +68,12 @@ boston-climate-analysis/
 
 ## 🚀 Quick Start
 
-[**View Complete Analysis →**](https://github.com/PopJoy-geek/Climate-Change-Signals-in-Boston)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PopJoy-geek/Climate-Change-Signals-in-Boston/blob/main/boston_weather_analysis.ipynb)
+
+1. **Click** the Colab button above
+2. **Wait** for the notebook to load
+3. **Browse** through the complete analysis with visualizations
 
 
 ## 📈 Results Interpretation
