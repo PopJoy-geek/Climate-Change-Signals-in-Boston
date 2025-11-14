@@ -68,14 +68,9 @@ boston-climate-analysis/
 
 ## 🚀 Quick Start
 
+[**Open Notebook in GitHub**](https://github.com/PopJoy-geek/Climate-Change-Signals-in-Boston/blob/main/boston_weather_analysis.ipynb)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/PopJoy-geek/Climate-Change-Signals-in-Boston)
-
-1. **Click** the Codespaces button above  
-2. **Wait** for the environment to start
-3. **Run** in the terminal:
-   ```bash
-   jupyter notebook boston_weather_analysis.ipynb
+*GitHub will automatically render the notebook with all visualizations and results*
 
 
 ## 📈 Results Interpretation
