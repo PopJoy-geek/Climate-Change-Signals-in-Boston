@@ -67,15 +67,13 @@ boston-climate-analysis/
 
 ## 🚀 Quick Start
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/boston-climate-analysis.git
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-3. **Run the analysis**
-   ```bash
-   jupyter notebook boston_weather_analysis.ipynb
+Follow these steps to run the analysis locally:
+
+1. **[Clone the repository](https://PopJoy-geek/boston-climate-analysis)**
+
+2. **[Install dependencies](https://github.com/PopJoy-geek/boston-climate-analysis/blob/main/requirements.txt)**
+
+3. **[Run the analysis in Jupyter](https://github.com/PopJoy-geek/boston-climate-analysis/blob/main/boston_weather_analysis.ipynb)**
 
 ## 📈 Results Interpretation
 
