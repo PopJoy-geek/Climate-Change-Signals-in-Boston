@@ -68,7 +68,7 @@ boston-climate-analysis/
 
 ## 🚀 Quick Start
 
-**[View the complete analysis with results](https://github.com/PopJoy-geek/boston-climate-analysis/blob/main/boston_weather_analysis.ipynb)** - See all findings and visualizations directly in GitHub
+[**View Complete Analysis →**](https://github.com/PopJoy-geek/Climate-Change-Signals-in-Boston)
 
 
 ## 📈 Results Interpretation
