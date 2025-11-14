@@ -48,6 +48,7 @@ matplotlib      # Data visualization and plotting
 seaborn         # Statistical data visualization
 scipy           # Spline interpolation for smoothing
 numpy           # Numerical computing
+```
 
 ## 🛠️ Analysis Features
 
