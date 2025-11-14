@@ -68,7 +68,7 @@ boston-climate-analysis/
 
 ## 🚀 Quick Start
 
-[**Open Notebook in GitHub**](https://github.com/PopJoy-geek/Climate-Change-Signals-in-Boston/blob/main/boston_weather_analysis.ipynb)
+[**Open Notebook in GitHub**](https://github.com/PopJoy-geek/Climate-Change-Signals-in-Boston/blob/main/climate-change-signals-in-boston.ipynb)
 
 *GitHub will automatically render the notebook with all visualizations and results*
 
