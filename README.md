@@ -50,14 +50,14 @@ scipy           # Spline interpolation for smoothing
 numpy           # Numerical computing
 ```
 
-## 🛠️ Analysis Features
+##  Analysis Features
 
 - **Temporal Aggregation**: Monthly and yearly trend analysis
 - **Dual-Axis Visualization**: Multi-variable comparison capabilities  
 - **Spline Interpolation**: Enhanced trend clarity through curve smoothing
 - **Statistical Analysis**: Examination of extremes and variability patterns
 
-## 📁 Project Structure
+## Project Structure
 boston-climate-analysis/
 ├── boston_weather_analysis.ipynb  # Main analysis notebook
 ├── boston_weather_data.csv        # Weather dataset
@@ -83,7 +83,7 @@ Each finding includes:
 - **Physical Mechanism**: Explanation of underlying climate science
 - **Climate Context**: Connection to global warming predictions
 
-## 🤝 Contributing
+##  Contributing
 
 This project serves as a case study in climate data analysis. Contributions and suggestions for additional analyses are welcome!
 
