@@ -69,11 +69,13 @@ boston-climate-analysis/
 ## 🚀 Quick Start
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PopJoy-geek/Climate-Change-Signals-in-Boston/blob/main/boston_weather_analysis.ipynb)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/PopJoy-geek/Climate-Change-Signals-in-Boston)
 
-1. **Click** the Colab button above
-2. **Wait** for the notebook to load
-3. **Browse** through the complete analysis with visualizations
+1. **Click** the Codespaces button above  
+2. **Wait** for the environment to start
+3. **Run** in the terminal:
+   ```bash
+   jupyter notebook boston_weather_analysis.ipynb
 
 
 ## 📈 Results Interpretation
