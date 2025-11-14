@@ -65,15 +65,21 @@ boston-climate-analysis/
 └── requirements.txt               # Python dependencies
 
 
+
 ## 🚀 Quick Start
+
+### Option 1: View Results Instantly
+**[View the complete analysis with results](https://github.com/PopJoy-geek/boston-climate-analysis/blob/main/boston_weather_analysis.ipynb)** - See all findings and visualizations directly in GitHub
+
+### Option 2: Run Locally
 
 Follow these steps to run the analysis locally:
 
-1. **[Clone the repository](https://PopJoy-geek/boston-climate-analysis)**
+1. **[Clone the repository](https://github.com/PopJoy-geek/Climate-Change-Signals-in-Boston)**
 
-2. **[Install dependencies](https://github.com/PopJoy-geek/boston-climate-analysis/blob/main/requirements.txt)**
+2. **[Install dependencies](https://github.com/PopJoy-geek/Climate-Change-Signals-in-Boston/blob/main/requirements.txt)**
 
-3. **[Run the analysis in Jupyter](https://github.com/PopJoy-geek/boston-climate-analysis/blob/main/boston_weather_analysis.ipynb)**
+3. **[Run the analysis in Jupyter](https://github.com/PopJoy-geek/Climate-Change-Signals-in-Boston/blob/main/boston_weather_analysis.ipynb)**
 
 ## 📈 Results Interpretation
 
