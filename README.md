@@ -39,7 +39,7 @@ This project analyzes a decade of daily weather observations from Boston, Massac
 ### Data Source
 - **Dataset**: Boston Weather Data 2013-2023
 - **Metrics**: Daily temperature (°C) and precipitation (mm) records
-- **Origin**: [Kaggle Dataset](https://www.kaggle.com/datasets/your-dataset-link)
+- **Origin**: [Kaggle Dataset](https://www.kaggle.com/datasets/swaroopmeher/boston-weather-2013-2023)
 
 ### Technologies Used
 ```python
