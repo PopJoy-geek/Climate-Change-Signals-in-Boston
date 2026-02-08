@@ -57,14 +57,6 @@ numpy           # Numerical computing
 - **Spline Interpolation**: Enhanced trend clarity through curve smoothing
 - **Statistical Analysis**: Examination of extremes and variability patterns
 
-## Project Structure
-boston-climate-analysis/
-├── boston_weather_analysis.ipynb  # Main analysis notebook
-├── boston_weather_data.csv        # Weather dataset
-├── README.md                      # Project documentation
-└── requirements.txt               # Python dependencies
-
-
 
 ## 🚀 Quick Start
 
